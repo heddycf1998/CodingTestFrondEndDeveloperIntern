@@ -1,6 +1,7 @@
 # CodingTestFrontEndDeveloperIntern
-Nama : Heddy Cahya Firdaus
-Email : heddycf1998@gmail.com
+
+Heddy Cahya Firdaus (heddycf1998@gmail.com)
+
 -------------------------------------------
 Cara Menjalankan App : 
 > masukkan sesuai dengan ketentuannya
