@@ -50,3 +50,12 @@ B. Tes Front End :
 -------------------------------------------
 
 ---*screenshoot hasil*---
+[url=https://postimg.cc/kBKT6tLj][img]https://i.postimg.cc/kBKT6tLj/Test-Logika-1.png[/img][/url]
+
+[url=https://postimg.cc/062nBXj3][img]https://i.postimg.cc/062nBXj3/Test-Logika-2.png[/img][/url]
+
+[url=https://postimg.cc/ZWmVr5SJ][img]https://i.postimg.cc/ZWmVr5SJ/Test-Logika-3.png[/img][/url]
+
+[url=https://postimg.cc/PCMKKnXY][img]https://i.postimg.cc/PCMKKnXY/Test-Logika-4.png[/img][/url]
+
+
