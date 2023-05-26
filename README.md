@@ -4,6 +4,7 @@ Email : heddycf1998@gmail.com
 -------------------------------------------
 Cara Menjalankan App : 
 > masukkan sesuai dengan ketentuannya
+
 A. Tes Logika :
 - masukkan angka atau kalimat
 - tekan tombol "submit"
