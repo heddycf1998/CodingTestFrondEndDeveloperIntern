@@ -1,0 +1,147 @@
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #212121;
+}
+
+.container {
+  position: relative;
+  background-color: #fff;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+}
+
+.navbar-wrapper {
+  background-color: #002984;
+  height: 80px;
+  color: #FFFFFF;
+}
+
+.navbar-back {
+  position: absolute;
+  font-size: large;
+  padding-top: 27px;
+  padding-left: 20px;
+  font-size: 30px;
+  letter-spacing: .5px;
+}
+
+.main-wrapper {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 17px;
+  margin-right: 17px;
+}
+
+.main {
+  width: fit-content 100%;
+  height: fit-content;
+}
+
+.main-wrapper .main input {
+  display: none;
+}
+
+.main-wrapper .main label {
+  height: 100px;
+  width: 150px;
+  border-radius: 6px;
+  border: 1px dashed #999;
+}
+
+.main-wrapper .main label:hover {
+  color : #de0611;
+  border: 1px dashed #de0611;
+}
+
+.main-wrapper .main .content {
+  display: flex;
+  height: 150px;
+  width: 500px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  align-items: center;
+  background-color: #002984;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+}
+
+.main-wrapper .main .gantiFotoProfil {
+  display: flex;
+  height: 300px;
+  width: 500px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  align-items: center;
+  background-color: #E0E0E0;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+}
+
+.main-wrapper .main .ambilDari {
+  display: flex;
+  height: 70px;
+  width: 500px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  align-items: center;
+  background-color: #006C84;
+  color: #FFFFFF;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+  justify-content: center;
+  font-style: normal;
+}
+
+.main-wrapper .main .simpan {
+  display: flex;
+  height: 50px;
+  width: 500px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  align-items: center;
+  background-color: #E0E0E0;
+  color: #757575;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+  justify-content: center;
+  font-style: normal;
+}
+
+.main-wrapper .main .simpanBerhasil {
+  display: flex;
+  height: 50px;
+  width: 500px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  align-items: center;
+  background-color: #002984;
+  color: #FFFFFF;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+  justify-content: center;
+  font-style: normal;
+}
+
+.main-wrapper .main .ambilFoto {
+  display: flex;
+  height: 535px;
+  width: 500px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+}
+
+.main-wrapper .main  .circle {
+  background-color: white;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  top: 10px;
+  z-index: 1;
+}

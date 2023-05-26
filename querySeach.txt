@@ -1,0 +1,26 @@
+label for
+input type
+button onclick
+getElementById
+getElementById value
+bilangan cacah dimulai dari
+javascript bilangan ganjil
+push javascript
+textContent javascript
+join javascript
+replace(/[^\w\s]/g, "")
+match() javascript
+new RegExp javascript
+addEventListener
+addEventListener("click")
+DOMContentLoaded
+match(/[a-z]/)
+match(/[A-Z]/)
+else if
+css flexbox tutorial
+file upload in HTML & CSS
+upload image using javascript
+Upload Photo Like Facebook Profile Picture With HTML, CSS
+display css
+justify-content
+align-items
