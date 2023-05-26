@@ -50,12 +50,14 @@ B. Tes Front End :
 -------------------------------------------
 
 ---*screenshoot hasil*---
-[![Test-Logika-1.png](https://i.postimg.cc/KvswWPfy/Test-Logika-1.png)](https://postimg.cc/kBKT6tLj)
+![Test - Logika - 1](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/d33e18f0-a42e-4345-b8e1-3fa0a07d7e52)
+![Test - Logika - 2](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/f982d6b9-56a2-44b4-9fb4-670e725bc1eb)
+![Test - Logika - 3](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/a0cc5583-9777-4512-8443-bde90031d904)
+![Test - Logika - 4](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/5b13f8e9-48b4-42d1-aea3-10249b2b5f8b)
 
-[url=https://postimg.cc/062nBXj3][img]https://i.postimg.cc/062nBXj3/Test-Logika-2.png[/img][/url]
-
-[url=https://postimg.cc/ZWmVr5SJ][img]https://i.postimg.cc/ZWmVr5SJ/Test-Logika-3.png[/img][/url]
-
-[url=https://postimg.cc/PCMKKnXY][img]https://i.postimg.cc/PCMKKnXY/Test-Logika-4.png[/img][/url]
-
-
+![Test - Front End - 1](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/13da64cf-7239-433d-96c3-0aa094f43c0f)
+![Test - Front End - 2](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/41bb09ca-fe30-45d4-a805-6cc7f0afbd35)
+![Test - Front End - 3](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/9e04c934-b919-47b4-b24c-929762d1f264)
+![Test - Front End - 4](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/b7adad1f-228e-4aea-b56a-fd684d7ee593)
+![Test - Front End - 5](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/346bcacb-c5cf-40b1-ad5b-2fcef384daac)
+![Test - Front End - 6](https://github.com/heddycf1998/CodingTestFrondEndDeveloperIntern/assets/49559879/814768a9-79de-4e04-8186-9ffcfec89368)
